@@ -13,4 +13,4 @@ This project recommends movies based on genres using cosine similarity.
 - Scikit-learn
 
 ## Author
-Balaji
+Balaji 
